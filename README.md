@@ -21,8 +21,8 @@ We provide a very simple demo which used several machine learning algorithms to 
 5. xgboost
 
 ## How to use
-1. Comment out the 'model_parameters'(but save '{}' in each element) to get the baseline model for each algorithm;
-2. You need to change all 'dir_path' that appear in the processor.py according to your File Directory.
+1. Comment out the `model_parameters`(but save '{}' in each element) in `processor.py` to get the baseline model for each algorithm;
+2. You need to change all `dir_path` that appear in `processor.py` according to your File Directory.
 
 ## Other
 If you have any questions, please communicate with me. Good Luck! ^_^
